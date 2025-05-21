@@ -1,0 +1,151 @@
+,ETF Symbol,ETF Name,ETF Price,ETF Change,ETF % Change,50 Day Average,200 Day Average,3 Month Return,YTD Return
+0,BLOK,Amplify Transformational Data Sharing ETF,41.53,+1.82,+4.58%,44.45,41.08,-11.61%,-2.95%
+1,XSD,SPDR S&P Semiconductor ETF,225.76,+8.52,+3.92%,238.91,241.20,-8.60%,-8.86%
+2,QLD,ProShares Ultra QQQ,97.22,+3.66,+3.91%,106.86,102.75,-2.60%,-2.62%
+3,PEZ,Invesco Dorsey Wright Consumer Cyclicals Momentum ETF,90.32,+3.19,+3.66%,98.11,100.04,-12.07%,-0.53%
+4,BLCN,Siren Nasdaq NexGen Economy ETF,21.16,+0.73,+3.55%,24.14,25.79,-22.33%,-12.26%
+5,PSI,Invesco Semiconductors ETF,52.84,+1.74,+3.40%,57.28,57.73,-4.07%,-6.01%
+6,PTF,Invesco Dorsey Wright Technology Momentum ETF,64.19,+2.17,+3.50%,67.97,66.14,-13.87%,-9.60%
+7,PKB,Invesco Building & Construction ETF,70.94,+2.26,+3.29%,74.22,75.66,-16.78%,-4.22%
+8,SOXX,iShares Semiconductor ETF,205.67,+6.29,+3.16%,214.76,225.22,-3.14%,-3.25%
+9,VCR,Vanguard Consumer Discretionary Index Fund ETF Shares,337.25,+10.33,+3.16%,364.42,344.22,-4.51%,-4.62%
+10,FDIS,Fidelity MSCI Consumer Discretionary Index ETF,87.45,+2.69,+3.17%,94.63,89.35,-4.46%,-4.55%
+11,PRN,Invesco Dorsey Wright Industrials Momentum ETF,145.28,+4.39,+3.11%,151.70,150.76,-16.17%,-3.44%
+12,FTXL,First Trust Nasdaq Semiconductor ETF,82.74,+2.39,+2.97%,86.53,91.16,-4.87%,-3.91%
+13,KCE,SPDR S&P Capital Markets ETF,131.98,+3.81,+2.97%,137.52,129.11,-6.07%,+0.55%
+14,XLY,The Consumer Discretionary Select Sector SPDR Fund,202.79,+5.88,+2.99%,218.11,203.52,-2.64%,-3.73%
+15,FNY,First Trust Mid Cap Growth AlphaDEX Fund,77.36,+2.22,+2.95%,80.85,79.18,-8.57%,+0.11%
+16,SMH,VanEck Semiconductor ETF,231.27,+6.50,+2.89%,240.94,245.93,-3.45%,-3.87%
+17,TUR,iShares MSCI Turkey ETF,31.63,+0.86,+2.79%,35.66,37.17,-4.98%,-5.27%
+18,VFMO,Vanguard U.S. Momentum Factor ETF ETF Shares,159.55,+4.29,+2.76%,165.69,161.51,-7.03%,+0.66%
+19,QMOM,Alpha Architect U.S. Quantitative Momentum ETF,60.67,+1.62,+2.73%,64.02,63.17,-11.08%,-2.13%
+20,XMMO,Invesco S&P MidCap Momentum ETF,117.79,+3.12,+2.72%,123.90,121.45,-9.55%,-1.16%
+21,XSMO,Invesco S&P SmallCap Momentum ETF,63.41,+1.66,+2.70%,66.10,65.65,-10.14%,-0.94%
+22,AIRR,First Trust RBA American Industrial RenaissanceTM ETF,71.50,+1.87,+2.69%,75.63,74.91,-14.60%,-5.49%
+23,SPHB,Invesco S&P 500 High Beta ETF,84.15,+2.18,+2.66%,88.45,87.75,-6.60%,-2.02%
+24,XHB,SPDR S&P Homebuilders ETF,99.67,+2.56,+2.64%,104.29,111.19,-17.24%,-2.96%
+25,IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,145.71,+3.71,+2.61%,149.66,136.07,0.03%,+6.10%
+26,FYC,First Trust Small Cap Growth AlphaDEX Fund,72.66,+1.85,+2.61%,75.87,74.07,-11.96%,-4.06%
+27,IWP,iShares Russell Mid-Cap Growth ETF,124.01,+3.14,+2.60%,129.42,121.30,-5.98%,+0.27%
+28,SPMO,Invesco S&P 500 Momentum ETF,96.53,+2.49,+2.65%,98.34,92.64,3.35%,+5.16%
+29,JSMD,Janus Henderson Small/Mid Cap Growth Alpha ETF,72.02,+1.81,+2.58%,74.60,72.86,-10.57%,-3.26%
+30,PSC,Principal U.S. Small-Cap ETF,49.93,+1.25,+2.57%,51.61,51.28,-9.03%,-0.50%
+31,XNTK,SPDR NYSE Technology ETF,205.72,+5.01,+2.50%,209.22,199.49,0.71%,+2.51%
+32,MTUM,iShares MSCI USA Momentum Factor ETF,209.85,+5.12,+2.50%,214.90,204.38,1.34%,+5.61%
+33,SMLF,iShares U.S. Small-Cap Equity Factor ETF,64.53,+1.50,+2.39%,67.63,66.30,-9.12%,-1.49%
+34,ITB,iShares U.S. Home Construction ETF,97.09,+2.26,+2.38%,102.23,111.99,-20.04%,-4.32%
+35,QTUM,Defiance Quantum ETF,79.75,+1.83,+2.35%,81.04,69.31,12.45%,-2.78%
+36,RWK,Invesco S&P MidCap 400 Revenue ETF,111.72,+2.55,+2.33%,116.86,115.74,-7.24%,-0.09%
+37,PAVE,Global X U.S. Infrastructure Development ETF,39.14,+0.89,+2.32%,40.76,40.39,-11.75%,-0.59%
+38,FV,First Trust Dorsey Wright Focus 5 ETF,57.24,+1.29,+2.31%,59.65,58.38,-3.36%,+0.44%
+39,VOT,Vanguard Mid-Cap Growth Index Fund ETF Shares,253.60,+5.68,+2.29%,261.43,248.17,-3.85%,+2.31%
+40,COPX,Global X Copper Miners ETF,42.69,+0.95,+2.28%,39.95,42.49,-8.18%,-0.39%
+41,SPGP,Invesco S&P 500 GARP ETF,102.01,+2.31,+2.32%,105.79,105.02,-5.68%,+0.65%
+42,EZM,WisdomTree U.S. MidCap Earnings Fund,60.94,+1.33,+2.24%,62.69,61.83,-6.98%,+0.30%
+43,GRPM,Invesco S&P MidCap 400 GARP ETF,107.71,+2.35,+2.23%,110.85,115.23,-13.34%,-3.96%
+44,USVM,VictoryShares US Small Mid Cap Value Momentum ETF,80.69,+1.75,+2.22%,83.64,83.50,-9.67%,-1.87%
+45,XMVM,Invesco S&P MidCap Value with Momentum ETF,53.92,+1.16,+2.20%,55.66,55.38,-8.17%,+1.50%
+46,ILCG,iShares Morningstar Growth ETF,84.98,+1.83,+2.20%,89.06,85.59,-1.67%,-1.28%
+47,IMCG,iShares Morningstar Mid-Cap Growth ETF,73.99,+1.58,+2.18%,76.60,73.47,-4.80%,+1.25%
+48,ETHO,Amplify Etho Climate Leadership U.S. ETF,56.97,+1.21,+2.17%,59.44,59.30,-7.78%,-1.74%
+49,XMHQ,Invesco S&P MidCap Quality ETF,94.11,+1.99,+2.16%,97.83,100.39,-10.94%,-2.49%
+50,VB,Vanguard Small-Cap Index Fund ETF Shares,230.15,+4.81,+2.13%,240.01,236.02,-8.39%,-1.14%
+51,NULG,Nuveen ESG Large-Cap Growth ETF,81.91,+1.73,+2.16%,85.21,83.62,-4.31%,-1.11%
+52,QGRO,American Century U.S. Quality Growth ETF,97.87,+1.99,+2.08%,102.17,94.44,-1.26%,+2.40%
+53,VOOG,Vanguard S&P 500 Growth Index Fund ETF Shares,349.88,+7.30,+2.13%,365.52,350.26,0.52%,-0.32%
+54,IUSG,iShares Core S&P U.S. Growth ETF,132.91,+2.77,+2.13%,139.00,133.55,-0.01%,-0.41%
+55,IVW,iShares S&P 500 Growth ETF,96.94,+2.03,+2.14%,101.34,97.10,0.50%,-0.33%
+56,SPYG,SPDR Portfolio S&P 500 Growth ETF,83.92,+1.77,+2.16%,87.75,84.09,0.54%,-0.31%
+57,IYG,iShares U.S. Financial Services ETF,79.75,+1.64,+2.10%,80.90,74.33,1.95%,+7.57%
+58,DGRS,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,47.75,+0.98,+2.10%,49.99,50.61,-11.37%,-3.12%
+59,XME,SPDR S&P Metals and Mining ETF,58.51,+1.18,+2.06%,58.95,61.00,-15.35%,+2.37%
+60,XSVM,Invesco S&P SmallCap Value with Momentum ETF,51.27,+1.05,+2.08%,53.55,54.75,-9.87%,-1.43%
+61,FTXN,First Trust Nasdaq Oil & Gas ETF,30.48,+0.62,+2.08%,29.77,30.01,-5.58%,+3.69%
+62,RWJ,Invesco S&P SmallCap 600 Revenue ETF,42.03,+0.85,+2.08%,44.98,44.57,-9.14%,-2.67%
+63,PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,39.31,+0.79,+2.06%,41.21,41.10,-9.19%,-2.23%
+64,SCHG,Schwab U.S. Large-Cap Growth ETF,26.22,+0.53,+2.08%,27.52,26.49,-1.69%,-2.15%
+65,SDVY,First Trust SMID Cap Rising Dividend Achievers ETF,34.28,+0.69,+2.04%,35.84,35.84,-10.70%,-1.03%
+66,IGM,iShares Expanded Tech Sector ETF,96.50,+1.95,+2.06%,101.61,97.59,-1.08%,-1.85%
+67,USAI,Pacer American Energy Independence ETF,42.33,+0.84,+2.02%,40.95,37.27,-1.25%,+3.50%
+68,IYW,iShares U.S. Technology ETF,149.12,+2.89,+1.98%,156.53,153.44,-2.82%,-2.95%
+69,VUG,Vanguard Growth Index Fund ETF Shares,388.27,+7.91,+2.08%,406.53,391.27,-0.68%,-1.14%
+70,QQQ,Invesco QQQ Trust,489.74,+9.62,+2.00%,510.55,494.02,-0.09%,-0.53%
+71,MGK,Vanguard Mega Cap Growth Index Fund,323.12,+6.42,+2.03%,339.01,327.15,-0.22%,-1.37%
+72,FSMD,Fidelity Small-Mid Multifactor ETF,39.76,+0.78,+1.99%,41.24,40.81,-7.92%,-0.55%
+73,IWF,iShares Russell 1000 Growth ETF,377.23,+7.33,+1.98%,396.63,381.70,-0.86%,-1.71%
+74,VFMF,Vanguard U.S. Multifactor ETF Shares,129.59,+2.52,+1.98%,132.56,130.28,-4.80%,+2.32%
+75,VFMF,Vanguard U.S. Multifactor ETF Shares,129.59,+2.52,+1.98%,132.56,130.28,-4.80%,+2.32%
+76,IWR,iShares Russell Mid-Cap ETF,87.22,+1.68,+1.96%,89.56,87.51,-5.89%,+1.25%
+77,IEDI,iShares U.S. Consumer Focused ETF,51.23,+0.99,+1.97%,54.32,51.94,-0.74%,+3.36%
+78,BFOR,Barron's 400 ETF,71.42,+1.37,+1.96%,73.38,71.71,-7.40%,+0.03%
+79,FNDA,Schwab Fundamental U.S. Small Company ETF,28.22,+0.55,+1.99%,29.39,29.53,-9.10%,-1.89%
+80,FTEC,Fidelity MSCI Information Technology Index ETF,170.96,+3.26,+1.94%,180.12,176.61,-3.81%,-3.81%
+81,MLPX,Global X MLP & Energy Infrastructure ETF,65.06,+1.24,+1.94%,62.93,57.43,-0.66%,+5.59%
+82,SMLV,SPDR SSGA US Small Cap Low Volatility Index ETF,125.60,+2.39,+1.94%,129.03,125.12,-4.82%,+2.77%
+83,KIE,SPDR S&P Insurance ETF,60.18,+1.15,+1.94%,58.03,55.98,-2.45%,+6.33%
+84,RSPG,Invesco S&P 500 Equal Weight Energy ETF,82.36,+1.56,+1.93%,80.64,79.63,-3.70%,+5.97%
+85,VGT,Vanguard Information Technology Index Fund ETF Shares,575.45,+10.84,+1.92%,605.62,593.90,-3.78%,-3.78%
+86,FDM,First Trust Dow Jones Select MicroCap Index Fund,64.50,+1.22,+1.93%,67.96,65.60,-5.55%,+0.54%
+87,FLQL,Franklin U.S. Large Cap Multifactor Index ETF,57.90,+1.09,+1.92%,59.62,58.01,0.00%,+2.87%
+88,ONEQ,Fidelity Nasdaq Composite Index ETF,71.36,+1.36,+1.94%,74.98,72.68,-1.83%,-2.33%
+89,CSA,VictoryShares US Small Cap Volatility Wtd ETF,70.93,+1.33,+1.91%,73.66,72.90,-8.39%,-0.83%
+90,EWC,iShares MSCI Canada ETF,41.66,+0.78,+1.91%,41.03,40.29,-3.22%,+2.59%
+91,VFH,Vanguard Financials Index Fund ETF Shares,121.27,+2.25,+1.89%,122.30,113.73,0.65%,+6.86%
+92,JMOM,JPMorgan U.S. Momentum Factor ETF,58.22,+1.08,+1.89%,59.81,57.33,-1.95%,+2.94%
+93,RTH,VanEck Retail ETF,226.13,+4.17,+1.88%,232.57,219.56,2.80%,+5.77%
+94,IYF,iShares U.S. Financials ETF,114.33,+2.10,+1.87%,114.92,107.18,0.06%,+7.10%
+95,VFQY,Vanguard U.S. Quality Factor ETF Shares,137.34,+2.52,+1.87%,142.28,140.92,-3.87%,+1.30%
+96,RDVY,First Trust Rising Dividend Achievers ETF,59.69,+1.11,+1.89%,61.06,59.12,-3.90%,+3.93%
+97,FIDU,Fidelity MSCI Industrials Index ETF,70.32,+1.29,+1.86%,71.77,70.65,-6.66%,+2.11%
+98,IETC,iShares U.S. Tech Independence Focused ETF,79.69,+1.46,+1.87%,84.27,79.85,-0.18%,-3.65%
+99,VIS,Vanguard Industrials Index Fund ETF Shares,255.01,+4.81,+1.92%,259.88,254.96,-6.61%,+2.00%
+100,VIS,Vanguard Industrials Index Fund ETF Shares,255.01,+4.81,+1.92%,259.88,254.96,-6.61%,+2.00%
+101,IVOV,Vanguard S&P Mid-Cap 400 Value Index Fund ETF Shares,94.06,+1.72,+1.86%,96.37,94.87,-5.96%,+0.76%
+102,VBR,Vanguard Small-Cap Value Index Fund ETF Shares,191.72,+3.50,+1.86%,198.43,197.35,-7.93%,-0.25%
+103,FNCL,Fidelity MSCI Financials Index ETF,70.23,+1.27,+1.84%,71.16,66.07,0.64%,+6.85%
+104,FSCS,First Trust SMID Capital Strength ETF,34.82,+0.63,+1.84%,35.60,34.92,-5.82%,+1.16%
+105,XLK,The Technology Select Sector SPDR Fund,217.53,+3.94,+1.85%,227.80,226.50,-3.28%,-2.95%
+106,DUSA,Davis Select U.S. Equity ETF,43.40,+0.77,+1.81%,44.17,42.24,0.43%,+6.49%
+107,VFVA,Vanguard U.S. Value Factor ETF Shares,117.39,+2.08,+1.80%,119.62,119.33,-6.74%,+0.85%
+108,DSI,iShares ESG MSCI KLD 400 ETF,105.72,+1.87,+1.80%,109.52,108.24,-4.21%,-1.03%
+109,IJJ,iShares S&P Mid-Cap 400 Value ETF,122.28,+2.15,+1.79%,125.72,123.07,-5.97%,+0.76%
+110,SUSA,iShares MSCI USA ESG Select ETF,117.93,+2.08,+1.79%,121.73,119.13,-2.41%,+0.54%
+111,IYY,iShares Dow Jones U.S. ETF,139.87,+2.42,+1.76%,144.07,139.83,-1.52%,+1.31%
+112,PPA,Invesco Aerospace & Defense ETF,119.55,+2.08,+1.77%,117.70,113.62,-3.52%,+1.68%
+113,MDYV,SPDR S&P 400 Mid Cap Value ETF,78.67,+1.37,+1.77%,80.86,79.16,-5.95%,+0.77%
+114,VONE,Vanguard Russell 1000 Index Fund ETF Shares,261.73,+4.54,+1.77%,268.73,260.61,-1.47%,+1.37%
+115,DON,WisdomTree U.S. MidCap Dividend Fund,50.10,+0.87,+1.76%,51.12,50.45,-6.53%,+1.26%
+116,RSPN,Invesco S&P 500 Equal Weight Industrials ETF,49.99,+0.86,+1.74%,51.01,49.97,-7.00%,+1.57%
+117,JVAL,JPMorgan U.S. Value Factor ETF,42.63,+0.73,+1.74%,43.78,43.06,-3.10%,+1.60%
+118,IWB,iShares Russell 1000 ETF,315.16,+5.35,+1.73%,324.69,314.93,-1.49%,+1.35%
+119,XLI,The Industrial Select Sector SPDR Fund,134.12,+2.27,+1.73%,135.65,132.40,-4.72%,+3.51%
+120,SPYX,SPDR S&P 500 Fossil Fuel Reserves Free ETF,47.00,+0.79,+1.72%,48.45,47.08,-0.97%,+1.33%
+121,VO,Vanguard Mid-Cap Index Fund ETF Shares,264.82,+4.47,+1.72%,269.44,261.89,-4.52%,+2.48%
+122,RFV,Invesco S&P MidCap 400 Pure Value ETF,116.01,+1.96,+1.72%,121.81,118.91,-7.01%,-0.40%
+123,FENY,Fidelity MSCI Energy Index ETF,25.54,+0.43,+1.71%,24.84,24.81,-4.85%,+4.56%
+124,XLF,The Financial Select Sector SPDR Fund,50.12,+0.84,+1.70%,50.32,46.71,2.18%,+8.04%
+125,MGC,Vanguard Mega Cap Index Fund,207.86,+3.41,+1.67%,213.82,207.30,-0.22%,+1.29%
+126,USMC,Principal U.S. Mega-Cap ETF,58.34,+0.98,+1.71%,60.26,57.52,1.46%,+1.78%
+127,VDE,Vanguard Energy Index Fund ETF Shares,130.57,+2.18,+1.70%,126.10,126.13,-4.88%,+4.48%
+128,BAPR,Innovator U.S. Equity Buffer ETF - April,43.54,+0.73,+1.71%,44.58,43.35,0.10%,+1.38%
+129,IVV,iShares Core S&P 500 ETF,576.07,+9.49,+1.67%,592.86,576.46,-0.98%,+1.44%
+130,ITOT,iShares Core S&P Total U.S. Stock Market ETF,125.51,+2.15,+1.74%,129.43,125.78,-1.94%,+1.12%
+131,SPY,SPDR S&P 500 ETF Trust,573.39,+9.41,+1.67%,590.12,573.66,-0.99%,+1.43%
+132,ENFR,Alerian Energy Infrastructure ETF,33.36,+0.57,+1.74%,32.30,29.65,-1.08%,+5.19%
+133,BBUS,JPMorgan BetaBuilders U.S. Equity ETF,103.99,+1.72,+1.68%,106.77,103.66,-1.12%,+1.45%
+134,MMTM,SPDR S&P 1500 Momentum Tilt ETF,249.01,+4.14,+1.69%,260.57,253.61,-1.89%,+0.35%
+135,QLC,FlexShares US Quality Large Cap Index Fund,65.53,+1.09,+1.69%,67.18,65.02,-0.36%,+2.07%
+136,VV,Vanguard Large Cap Index Fund,264.89,+4.48,+1.72%,271.96,263.75,-0.96%,+1.49%
+137,TMFC,Motley Fool 100 Index ETF,57.43,+0.95,+1.68%,59.68,57.12,0.45%,+0.11%
+138,RFDA,RiverFront Dynamic US Dividend Advantage ETF,54.14,+0.89,+1.68%,55.45,54.99,-3.72%,-0.00%
+139,SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,69.75,+1.17,+1.71%,71.87,70.00,-1.62%,+1.22%
+140,ATMP,Barclays ETN+ Select MLP ETN,30.92,+0.51,+1.68%,30.33,27.54,1.40%,+8.61%
+141,VOO,Vanguard S&P 500 ETF,528.81,+8.55,+1.64%,542.67,527.45,-0.98%,+1.44%
+142,DDIV,First Trust Dorsey Wright Momentum & Dividend ETF,38.30,+0.63,+1.67%,38.89,37.06,-2.07%,+5.19%
+143,SYLD,Cambria Shareholder Yield ETF,65.12,+1.04,+1.62%,68.04,70.03,-10.85%,-1.71%
+144,OEF,iShares S&P 100 ETF,278.71,+4.57,+1.67%,288.29,278.55,0.20%,+0.57%
+145,IWL,iShares Russell Top 200 ETF,141.35,+2.32,+1.67%,145.73,141.03,-0.20%,+1.38%
+146,WTV,WisdomTree U.S. Value Fund,83.84,+1.38,+1.67%,85.00,80.67,-3.71%,+2.79%
+147,SPLG,SPDR Portfolio S&P 500 ETF,67.66,+1.09,+1.64%,69.43,67.48,-0.98%,+1.44%
+148,PBUS,Invesco MSCI USA ETF,57.59,+0.93,+1.65%,59.33,57.52,-1.16%,+1.43%
+149,XLE,The Energy Select Sector SPDR Fund,93.31,+1.51,+1.64%,90.05,90.05,-3.86%,+6.27%
