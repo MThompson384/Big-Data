@@ -23,7 +23,7 @@ Automated real-time financial data collection utilizing Selenium and advanced we
 - **Structured output** with prices, changes, and performance metrics
 
 ### 📡 [Stock Market API Integration](https://github.com/MThompson384/Big-Data/blob/main/Assignment%201-%20Retrieving%20data%20from%20an%20AP.ipynb)
-Real-time financial data retrieval utilizing Alpha Vantage API
+Real-time financial data retrieval utilizing Alpha Vantage API (Clean notebook outputs)
 - **Time series data collection** for multiple stock symbols (Apple, Amazon, Tesla, etc.)
 - **MySQL database integration** with automated table creation and data insertion
 - **Interactive visualizations** using Plotly for price and volume analysis
